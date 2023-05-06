@@ -1,5 +1,5 @@
 # Re_BPM
-Simply app that changes all the midi files folder to a specific tempo and ppq selected from 96 to 960  !!! 
+Simply app that changes all the midi files folder to a specific tempo and ppq ( 96 to 960 ) . 
 
 
 
